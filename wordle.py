@@ -3,7 +3,7 @@ wordlist = ["great", "alone", "drift", "table", "kicks", "poems", "about", "nigh
 raw_word = random.choice(wordlist)
 
 
-#commit?
+#commit? - without push?
 
 def truf():
   if n == list[1]:
