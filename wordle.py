@@ -2,8 +2,8 @@ import random
 wordlist = ["great", "alone", "drift", "table", "kicks", "poems", "about", "night", "horse", "tipsy"]
 raw_word = random.choice(wordlist)
 
-n = "b"
-list = ("a", "b", "c", "d")
+
+#commit?
 
 def truf():
   if n == list[1]:
