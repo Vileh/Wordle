@@ -1,3 +1,7 @@
+import random
+wordlist = ["great", "alone", "drift", "table", "kicks", "poems", "about", "night", "horse", "tipsy"]
+raw_word = random.choice(wordlist)
+
 n = "b"
 list = ("a", "b", "c", "d")
 
@@ -8,9 +12,6 @@ def truf():
 print(list[1])
 truf()
 
-import random
-wordlist = ["great", "alone", "drift", "table", "kicks", "poems", "about", "night", "horse", "tipsy"]
-raw_word = random.choice(wordlist)
 def split(raw_word):
     return [char for char in raw_word]
 split_word = split(raw_word)
