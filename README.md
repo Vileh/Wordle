@@ -1,2 +1,2 @@
 # Wordle
-Wordle game created by Vileh
+Wordle game
