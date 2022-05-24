@@ -1,11 +1,12 @@
 # Wordle
 This is a basic python terminal game and my first python project.
-![Game](https://github.com/Vileh/Wordle/blob/main/2022-05-24.png](https://github.com/Vileh/Wordle/blob/main/2022-05-24.png)
+
+![Game](https://github.com/Vileh/Wordle/blob/main/2022-05-24.png)
 
 ## Table of contents
-* General info[#general-info]
-* Technologies used[#technologies-used]
-* Data[#data]
+* [General info](#general-info)
+* [Technologies used](#technologies-used)
+* [Data](#data)
 
 ## General info
 This is a worlde-like python game in the python console. It is a farily simple program that incorporates basic python knowledge like functions and loops, data storage using pandas dataframe, colored text and output formatting, and keyboard inputs using msvcrt library.
