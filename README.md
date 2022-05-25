@@ -7,6 +7,7 @@ This is a basic python terminal game and my first python project.
 * [General info](#general-info)
 * [Technologies used](#technologies-used)
 * [Data](#data)
+* [To do](#to-do)
 
 ## General info
 This is a worlde-like python game in the python console. It is a farily simple program that incorporates basic python knowledge like functions and loops, data storage using pandas dataframe, colored text and output formatting, and keyboard inputs using msvcrt library.
@@ -16,3 +17,6 @@ The program is made entirely in Python 3.9
 
 ## Data
 I got the possible and allowed word lists from the GitHub repository https://github.com/3b1b/videos/tree/master/_2022/wordle/data
+
+## To do
+Include an algorithm finding the best guess using maximum entropy (information gain).
