@@ -1,7 +1,7 @@
 # Wordle
 This is a basic python terminal game and my first python project.
 
-![Game](https://github.com/Vileh/Wordle/blob/main/2022-05-24.png)
+![Game](https://github.com/Vileh/Wordle/blob/main/image.png)
 
 ## Table of contents
 * [General info](#general-info)
